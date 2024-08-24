@@ -30,5 +30,6 @@ python train.py
 ```
 
 ## Reference
-[1] Zhang, Yuling, et al. "Stable heterogeneous treatment effect estimation across out-of-distribution populations." 2024 IEEE 40th International Conference on Data Engineering (ICDE). IEEE, 2024.
+[1] Zhang, Yuling, et al. "Stable heterogeneous treatment effect estimation across out-of-distribution populations." 2024 IEEE 40th International Conference on Data Engineering (ICDE). IEEE, 2024. 
+
 [2] Shalit, Uri, Fredrik D. Johansson, and David Sontag. "Estimating individual treatment effect: generalization bounds and algorithms." International conference on machine learning. PMLR, 2017.
